@@ -8,22 +8,6 @@ Cada página representa una escena dentro del proceso psicológico del protagoni
 
 El recorrido no es lineal. El lector toma decisiones que pueden:
 
-* Avanzar hacia nuevas escenas.
-* Volver a escenas anteriores.
-* Conducir a distintos finales.
-* Generar ciclos narrativos (loops).
-
-El proyecto está diseñado para practicar:
-
-* Estructuración semántica en HTML.
-* Navegación con paths relativos y absolutos.
-* Organización clara de carpetas.
-* Uso correcto de etiquetas estructurales.
-* Implementación de breadcrumbs.
-* Inclusión adecuada de imágenes.
-
-No se utiliza CSS ni JavaScript.
-
 ---
 
 ## Estructura del Proyecto
