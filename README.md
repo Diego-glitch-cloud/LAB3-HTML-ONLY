@@ -4,9 +4,8 @@
 
 Este proyecto es una adaptación interactiva del álbum *The Wall* de Pink Floyd. La historia se desarrolla a través de múltiples páginas HTML conectadas entre sí mediante enlaces relativos y absolutos.
 
-Cada página representa una escena dentro del proceso psicológico del protagonista: infancia, fama, aislamiento, delirio y juicio interno.
+Cada página representa una escena dentro del proceso psicológico del protagonista: infancia, fama, aislamiento y juicio interno.
 
-El recorrido no es lineal. El lector toma decisiones que pueden:
 
 ---
 
@@ -20,7 +19,8 @@ README.md
   /chapter1-childhood
     father.html
     mother.html
-    school.html
+    school-obedient.html
+    school-defiant.html
 
   /chapter2-fame
     music.html
@@ -28,19 +28,14 @@ README.md
     betrayal.html
 
   /chapter3-isolation
-    doubt.html
+    wall.html
     hotel.html
-    wall-complete.html
+    delusion.html
 
-  /chapter4-delusion
-    leader.html
-    rally.html
-    collapse.html
-
-  /chapter5-judgment
+  /chapter4-judgment
     trial.html
-    accusation.html
     verdict.html
+    aftermath.html
 
 /images
   pink-floyd-the-wall.jpg
@@ -62,13 +57,6 @@ Ascenso musical, desconexión emocional y traición.
 
 Construcción consciente del muro y aislamiento total.
 
-### Chapter 4 — Delusion
-
-Transformación del resentimiento en fantasía autoritaria.
-
-### Chapter 5 — Judgment
+### Chapter 4 — Judgment
 
 Juicio interno y decisión final: derribar o reconstruir el muro.
-
-
-
